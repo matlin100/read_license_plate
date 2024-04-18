@@ -1,5 +1,5 @@
 # Project Title
-
+###PlateDetective
 ## Description
 This project is designed to handle database operations, image preprocessing, and license plate recognition. It integrates various modules for establishing database connections, handling CRUD operations, processing images, and recognizing license plates through video capture.
 
@@ -20,8 +20,8 @@ This project is designed to handle database operations, image preprocessing, and
 To get started with this project, clone the repository and install the required packages:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone [<repository-url>](https://github.com/matlin100/read_license_plate.git)
+cd read_license_plate
 pip install -r requirements.txt
 ```
 
