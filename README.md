@@ -1,5 +1,5 @@
 # Project Title
-##PlateDetective
+### PlateDetective
 ## Description
 This project is designed to handle database operations, image preprocessing, and license plate recognition. It integrates various modules for establishing database connections, handling CRUD operations, processing images, and recognizing license plates through video capture.
 
